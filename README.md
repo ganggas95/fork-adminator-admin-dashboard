@@ -9,9 +9,8 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 
 | [Flask Dashboard Adminator](https://appseed.us/admin-dashboards/flask-dashboard-adminator) | [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
 | --- | --- | --- |
-| [![Flask Dashboard Adminator](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-adminator) | [![Django Dashboard Adminator](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-adminator-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-adminator) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
+| [![Flask Dashboard Adminator](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminator-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-adminator) | [![Django Dashboard Adminator](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-adminator-screen-2.png)](https://appseed.us/admin-dashboards/django-dashboard-adminator) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
 
-<br />
 <br />
 
 ## Preview
